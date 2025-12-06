@@ -1,0 +1,12 @@
+python-dotenv
+requests
+gTTS
+playsound==1.2.2
+SpeechRecognition
+pydub
+gradio
+groq
+Pillow
+transformers
+torch
+numpy
