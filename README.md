@@ -1,10 +1,6 @@
-    ---
-    title: MediHelp
-    emoji: 🩺🤖🧠
-    colorFrom: blue
-    colorTo: indigo
-    sdk: gradio
-    python_version: 3.10
-    sdk_version: 4.16.0 # Or your specific Gradio version
-    suggested_hardware: cpu-basic
-    ---
+title: MediHelp
+sdk: gradio
+emoji: 🏢
+colorFrom: green
+colorTo: blue
+sdk_version: 6.0.2
