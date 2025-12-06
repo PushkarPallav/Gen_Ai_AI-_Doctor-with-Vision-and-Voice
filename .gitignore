@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Audio/Model files
+*.mp3
+*.wav
+*.pt
+*.h5
+*.pkl
+
+# Virtual environments
+venv/
+*.egg-info/
